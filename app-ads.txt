@@ -11,15 +11,15 @@ gamaigroup.com, 320201, RESELLER
 conversantmedia.com, 40881, RESELLER, 03113cd04947736d
 pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
-thebrave.io, 1234568, RESELLER, c25b2154543746ac
+yeahmobi.com, 5135082, RESELLER
 outbrain.com, 00bba279fec6daa01a0cb6fdccb023f0d5, RESELLER
 se7en.es, 212430, RESELLER, 064bc410192443d8
 mintegral.com, 10003, RESELLER
 mars.media, 1010450, RESELLER, 8624339f102fb076
-adiiix.com, 3de5db9, RESELLER
+thebrave.io, 1234568, RESELLER, c25b2154543746ac
 iqzone.com, IQ87, RESELLER
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
-yeahmobi.com, 5135082, RESELLER
+adiiix.com, 3de5db9, RESELLER
 rhebus.works, 7597018658, RESELLER
 pubmatic.com, 163758, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
@@ -94,3 +94,5 @@ onetag.com, 8d4bbebb8fa701e, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 Added.tv, 3d20ca0f, RESELLER
+zmaticoo.com, 5135082, RESELLER
+zmaticoo.com, 113149, RESELLER
