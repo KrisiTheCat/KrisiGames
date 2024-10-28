@@ -1,3 +1,4 @@
+facebook.com, 3372988926338002, DIRECT, c3e20eee3f780d68
 inmobi.com, 16c1364faaa84460bfefb9a60b506ddb, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
